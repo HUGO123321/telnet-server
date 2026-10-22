@@ -1,4 +1,4 @@
-# Úkol 3 - Sever
+# Úkol 3 - Server
 
 [![UTB FAI Task](https://img.shields.io/badge/UTB_FAI-Task-yellow)](https://www.fai.utb.cz/)
 [![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white)](https://www.java.com/)
